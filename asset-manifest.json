@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/luisfbcudj94/blockchain-message/static/css/main.0c1e2795.chunk.css",
-    "main.js": "/luisfbcudj94/blockchain-message/static/js/main.f8059d3b.chunk.js",
-    "main.js.map": "/luisfbcudj94/blockchain-message/static/js/main.f8059d3b.chunk.js.map",
-    "runtime-main.js": "/luisfbcudj94/blockchain-message/static/js/runtime-main.f1b31c54.js",
-    "runtime-main.js.map": "/luisfbcudj94/blockchain-message/static/js/runtime-main.f1b31c54.js.map",
-    "static/js/2.d4030eec.chunk.js": "/luisfbcudj94/blockchain-message/static/js/2.d4030eec.chunk.js",
-    "static/js/2.d4030eec.chunk.js.map": "/luisfbcudj94/blockchain-message/static/js/2.d4030eec.chunk.js.map",
-    "index.html": "/luisfbcudj94/blockchain-message/index.html",
-    "precache-manifest.178663b53176e3781ef8f3e43702371c.js": "/luisfbcudj94/blockchain-message/precache-manifest.178663b53176e3781ef8f3e43702371c.js",
-    "service-worker.js": "/luisfbcudj94/blockchain-message/service-worker.js",
-    "static/css/main.0c1e2795.chunk.css.map": "/luisfbcudj94/blockchain-message/static/css/main.0c1e2795.chunk.css.map"
+    "main.css": "/blockchain_1/static/css/main.0c1e2795.chunk.css",
+    "main.js": "/blockchain_1/static/js/main.61b049bd.chunk.js",
+    "main.js.map": "/blockchain_1/static/js/main.61b049bd.chunk.js.map",
+    "runtime-main.js": "/blockchain_1/static/js/runtime-main.048f4736.js",
+    "runtime-main.js.map": "/blockchain_1/static/js/runtime-main.048f4736.js.map",
+    "static/js/2.4f8d48a2.chunk.js": "/blockchain_1/static/js/2.4f8d48a2.chunk.js",
+    "static/js/2.4f8d48a2.chunk.js.map": "/blockchain_1/static/js/2.4f8d48a2.chunk.js.map",
+    "index.html": "/blockchain_1/index.html",
+    "precache-manifest.53cddba05cead1f735d70e4ad9759740.js": "/blockchain_1/precache-manifest.53cddba05cead1f735d70e4ad9759740.js",
+    "service-worker.js": "/blockchain_1/service-worker.js",
+    "static/css/main.0c1e2795.chunk.css.map": "/blockchain_1/static/css/main.0c1e2795.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1b31c54.js",
-    "static/js/2.d4030eec.chunk.js",
+    "static/js/runtime-main.048f4736.js",
+    "static/js/2.4f8d48a2.chunk.js",
     "static/css/main.0c1e2795.chunk.css",
-    "static/js/main.f8059d3b.chunk.js"
+    "static/js/main.61b049bd.chunk.js"
   ]
 }
